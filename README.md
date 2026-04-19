@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FE4701&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Wendell+Ottoni+%F0%9F%91%8B;Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FE4701&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Wendell+Ottoni!;Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br/>
 
