@@ -2,8 +2,8 @@ name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -14,34 +14,26 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          SETTING_JSON: |
+          SETTING_JSON: >-
             {
               "username": "WendellOttoni",
               "max_repos": 10,
-              "angle": 35,
-              "location_x": 50,
-              "location_y": 10,
-              "scale": 2,
               "setting_4ir": {
                 "filename": "profile-4ir-dark.svg",
-                "size_x": 1880,
-                "size_y": 940,
                 "background_color": "#1e1e1e",
                 "foreground_color": "#cccccc",
                 "merge_color1": "#fe4701",
                 "merge_color2": "#ff0054",
                 "font_color": "#cccccc",
                 "holiday_color": "#ff0054",
-                "contributions_line_color": "#fe470180",
-                "calendar_color": "#ffffff15"
+                "contributions_line_color": "#fe470180"
               }
             }
 
