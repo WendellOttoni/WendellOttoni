@@ -18,7 +18,7 @@ const wendell = {
   cidade:   "Mineiros - GO, Brasil",
   formação: "Sistemas de Informação · Unifimes",
   stack:    ["Delphi", "Python", "C#", "SQL", "JavaScript"],
-  status:   "disponível para novas oportunidades ✅",
+  status:   "transformando ideias em código 🚀",
 }
 ```
 
