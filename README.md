@@ -61,7 +61,7 @@ const wendell = {
 
 <div align="center">
 
-<img src="profile-4ir-dark.svg" alt="3D Contribution Graph" />
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 </div>
 
