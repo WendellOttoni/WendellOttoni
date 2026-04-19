@@ -60,5 +60,13 @@ const wendell = {
 ---
 
 <div align="center">
+
+<img src="profile-4ir-dark.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
   <sub>Made with ❤️ by <a href="https://wendellottoni.github.io/MeuSite">Wendell Ottoni</a></sub>
 </div>
