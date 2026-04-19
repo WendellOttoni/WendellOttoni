@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe4701,ff0054&height=120&section=header&text=Wendell%20Ottoni&fontSize=36&fontColor=cccccc&animation=fadeIn&fontAlignY=38" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FE4701&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Wendell+Ottoni+%F0%9F%91%8B;Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
@@ -68,5 +70,19 @@ const wendell = {
 ---
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendellOttoni/WendellOttoni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendellOttoni/WendellOttoni/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/WendellOttoni/WendellOttoni/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
   <sub>Made with ❤️ by <a href="https://wendellottoni.github.io/MeuSite">Wendell Ottoni</a></sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0054,fe4701&height=120&section=footer" />
