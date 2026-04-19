@@ -21,21 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: >-
-            {
-              "username": "WendellOttoni",
-              "max_repos": 10,
-              "setting_4ir": {
-                "filename": "profile-4ir-dark.svg",
-                "background_color": "#1e1e1e",
-                "foreground_color": "#cccccc",
-                "merge_color1": "#fe4701",
-                "merge_color2": "#ff0054",
-                "font_color": "#cccccc",
-                "holiday_color": "#ff0054",
-                "contributions_line_color": "#fe470180"
-              }
-            }
+          SETTING_JSON: setting.json
 
       - name: Commit and push SVG
         run: |
