@@ -26,19 +26,11 @@ const wendell = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=delphi,python,cs,js,ts,html,css,git,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cs,js,ts,html,css,sql,git,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WendellOttoni&show_icons=true&theme=transparent&title_color=fe4701&text_color=cccccc&icon_color=ff0054&border_color=ffffff15&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellOttoni&layout=compact&theme=transparent&title_color=fe4701&text_color=cccccc&border_color=ffffff15&langs_count=6" />
-
-</div>
 
 <div align="center">
 
