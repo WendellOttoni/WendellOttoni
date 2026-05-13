@@ -20,7 +20,7 @@ jobs:
         uses: WendellOttoni/github-contrib-runner@main
         with:
           username: WendellOttoni
-          variant: hash
+          variant: spaceship
           output: dist/commit-invaders.svg
 
       - name: Push output to dist branch
